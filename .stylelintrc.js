@@ -1,1 +1,1 @@
-module.exports = require('@lobehub/lint').stylelint;
+module.exports = require('@cyb3hub/lint').stylelint;
